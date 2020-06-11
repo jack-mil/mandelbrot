@@ -10,7 +10,7 @@ Required imports
 ```
 
 Its really disorganized and inefficient.
-There are also some [images I made](images\README.md). It's a mess  
+There are also some [images I made](images/README.md). It's a mess  
 
 Seriously, don't use this yet. I don't even know what it does. I'll update this one day (maybe)
 
@@ -20,4 +20,4 @@ Seriously, don't use this yet. I don't even know what it does. I'll update this 
  ![image 3](images/mandelbrot__bone_r_iter8184_19-05-08.png)
  ![image 4](images/mandelbrot__seismic_iter8184_21-25-01.png)
 
-[More Images](images\README.md)
+[More Images](images/README.md)
