@@ -15,6 +15,8 @@ There are also some [images I made](images/README.md). It's a mess
 Seriously, don't use this yet. I don't even know what it does. I'll update this one day (maybe)
 
 #### ~~But it makes pretty pictures~~
+> ![image 0](images/mandelbrot_images_jpg_white.png)
+
 > ![image 1](images/mandelbrot_jet_iter16224_17-37-41.png)
 
 > ![image 2](images/mandelbrot_inferno_iter2048_21-41-56.png)
